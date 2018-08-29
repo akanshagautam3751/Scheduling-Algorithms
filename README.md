@@ -9,4 +9,4 @@ A Process Scheduler schedules different processes to be assigned to the CPU base
 - Round Robin(RR) Scheduling
 - Multiple-Level Queues Scheduling
 
-These algorithms are either non-preemptive or preemptive.
+These algorithms will be either non-preemptive or preemptive.
